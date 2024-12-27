@@ -1,4 +1,4 @@
-# HOTEL-MANAGEMENT-SYSTEMHere’s a detailed and professional README file description for your GitHub repository:
+# HOTEL MANAGEMENT SYSTEM
 
 ---
 
